@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capy-os-store.github.io/sitemap.xml
