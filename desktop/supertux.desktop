@@ -1,13 +1,10 @@
 [Desktop Entry]
 Name=SuperTux
-Exec=~/.apps/SuperTux/App/SuperTux-v0.7.0.glibc2.38-x86_64.AppImage
-Comment=
+Exec=~/.apps/supertux/SuperTux-v0.7.0.glibc2.38-x86_64.AppImage
+Comment=Exciting platformer featuring Tux the penguin in the lead role.
 Terminal=false
-PrefersNonDefaultGPU=false
-Icon=~/.apps/SuperTux/Icon/SuperTux.png
+Icon=~/.apps/supertux/icon/supertux.png
 Type=Application
 Categories=Games;
 Hidden=false
 NoDisplay=false
-Path=
-StartupNotify=false
